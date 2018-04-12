@@ -18,8 +18,16 @@
         
         <div class="container-fluid">
                 <!--HEADER-->
-                    <?php include_once('header.php') ?>
+                    <?php include_once('header.php'); ?>
                 <!--END HEADER-->
+                
+                <!--NAV-->
+                    <?php include_once('nav.php'); ?>
+                <!--END NAV-->
+
+                <!--SECTION SOBRE MIM-->
+                    <?php include_once('sobre-mim.php'); ?>
+                <!--END SECTION SOBRE MIM-->
         </div>
         
         
