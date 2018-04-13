@@ -1,6 +1,6 @@
 <section class="sessao">
     <div class="sobre-mim">
-        <div class="container">
+        <div id="sobre-mim" class="container">
             <h2 class="title text-center">Sobre mim</h2>
             <hr>
             
@@ -84,6 +84,11 @@
                     <p><b>Pontos Fracos:</b> Timidez e perfeccionismo.</p>
                 </div>
             </div>
+            
+            <div class="row button justify-content-center">
+                <a ref="" role="button" class="btn btn-danger btn-sm">Visualizar CV</a>
+            </div>
+            
             
         </div>
     </div>

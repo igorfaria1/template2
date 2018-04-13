@@ -74,17 +74,33 @@ ul.nav .nav-item .nav-link
     text-transform: uppercase;
     font-weight: 600;
     font-size: 1.1em;
-    
 }
 
 ul.nav .nav-item .nav-link:hover
 {
     color: #cc2d0e;
+    transition:  ease 0.6s;
 }
 
 div.sobre-mim
 {
     background-color: #e2e2e2;
+}
+div.sobre-mim .button
+{
+    padding: 25px 0 25px 0;    
+}
+
+div.sobre-mim .button a
+{
+    color: #ffffff;
+}
+
+div.sobre-mim .button a:hover
+{
+    color: #ffffff;
+    box-shadow: 0 0 10px #3f3f3f;
+    transition:  ease 0.3s;
 }
 
 h2.title
@@ -157,7 +173,57 @@ div.descricao p
     box-sizing: border-box;
 }
 
+p.skill-name,
+p.skill-percent
+{
+    margin-bottom: 2px;
+    font-weight: 600;
+    font-size: 1em;
+    
+}
 
+div.progress
+{
+    height: 8px;
+    margin-bottom: 25px;
+}
+
+div.progress .html,
+div.progress .css,
+div.progress .bootstrap
+{
+    width: 90%;
+}
+
+div.progress .php
+{
+    width: 80%;
+}
+
+div.progress .javascript,
+div.progress .laravel
+{
+    width: 60%;
+}
+
+div.progress .mysql,
+div.progress .xml
+{
+    width: 50%;
+}
+
+div.progress .photoshop,
+div.progress .wordpress,
+div.progress .joomla
+{
+    width: 40%;
+}
+
+div.progress .ajax,
+div.progress .git
+{
+    width: 30%;
+}
 
 @media (max-width: 576px) {
     

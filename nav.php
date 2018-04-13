@@ -2,7 +2,7 @@
     
     <ul class="nav">
         <li class="nav-item">
-            <a class="nav-link" href="#">Sobre mim</a>
+            <a class="nav-link" href="#sobre-mim">Sobre mim</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Conhecimentos</a>
