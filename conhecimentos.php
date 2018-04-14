@@ -26,7 +26,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar html" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar html bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                     <!--CSS-->
@@ -39,7 +39,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar css" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar css bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                     <!--JAVASCRIPT-->
@@ -52,7 +52,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar javascript" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar javascript bg-success" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                     <!--PHP 7-->
@@ -65,7 +65,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar php" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar php bg-success" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                     <!--lARAVEL-->
@@ -78,7 +78,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar laravel" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar laravel bg-success" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                     <!--BOOTSTRAP-->
@@ -91,7 +91,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar bootstrap" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar bootstrap bg-success" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                     <!--XML-->
@@ -134,7 +134,7 @@
                             <p class="skill-name">Photoshop</p>
                         </div>
                         <div class="col-md-6 col-6 text-right">
-                            <p class="skill-percent">40%</p>
+                            <p class="skill-percent">50%</p>
                         </div>
                     </div>
                     <div class="progress">
@@ -151,7 +151,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar wordpress" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar wordpress bg-danger" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                     <!--JOOMLA-->
@@ -164,7 +164,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar joomla" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar joomla bg-danger" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                     <!--AJAX-->
@@ -177,7 +177,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar ajax" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar ajax bg-danger" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                     <!--GIT-->
@@ -190,7 +190,7 @@
                         </div>
                     </div>
                     <div class="progress">
-                        <div class="progress-bar git" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar git bg-danger" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                     
                 </div>

@@ -33,6 +33,10 @@
                     <?php include_once('conhecimentos.php'); ?>
                 <!--END SECTION SOBRE MIM-->
                 
+                <!--SECTION SOBRE MIM-->
+                    <?php include_once('experiencia.php'); ?>
+                <!--END SECTION SOBRE MIM-->
+                
                 
         </div>
         

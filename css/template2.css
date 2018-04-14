@@ -88,7 +88,7 @@ div.sobre-mim
 }
 div.sobre-mim .button
 {
-    padding: 25px 0 25px 0;    
+    padding: 25px 0 40px 0;    
 }
 
 div.sobre-mim .button a
@@ -206,13 +206,13 @@ div.progress .laravel
     width: 60%;
 }
 
+div.progress .photoshop,
 div.progress .mysql,
 div.progress .xml
 {
     width: 50%;
 }
 
-div.progress .photoshop,
 div.progress .wordpress,
 div.progress .joomla
 {
@@ -223,6 +223,11 @@ div.progress .ajax,
 div.progress .git
 {
     width: 30%;
+}
+
+div.experiencia
+{
+    background-color: #e5e3e3;
 }
 
 @media (max-width: 576px) {
