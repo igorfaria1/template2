@@ -37,6 +37,14 @@
                     <?php include_once('experiencia.php'); ?>
                 <!--END SECTION SOBRE MIM-->
                 
+                <!--SECTION EDUCACAO-->
+                    <?php include_once('educacao.php'); ?>
+                <!--END SECTION EDUCACAO-->
+                
+                <!--SECTION FOOTER-->
+                    <?php include_once('footer.php'); ?>
+                <!--END SECTION FOOTER-->
+                
                 
         </div>
         

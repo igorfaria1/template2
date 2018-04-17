@@ -9,26 +9,47 @@
             </div>
             
             <div class="container">
-                
-                <div class="row justify-content-md-center">
+
+                <div class=" work text-center">
                     
-                    <div class="col-6 col-xs-6 col-md-6">
-                        <h3 class="sub-title text-right">Técnico em Informática</h3>
-                        <p class="info text-right">Unipac</p>
-                    </div>
+                    <h3 class="sub-title">Técnico em Informática</h3>
+                    <p class="info">Unipac</p>
                     
-                    <div class="col-6 col-xs-6 col-md-6">
+                    <div class="row justify-content-center align-items-center">
+                        <span class="date">MAR 2016 - Atual</span>
                         
-                        <div class="row">
-                            <div class="icon-work justify-content-md-center text-left">
-                                <i class="fa fa-briefcase"></i>
-                            </div>
-                            
-                            <span class="date">MAR 2016 - Atual</span>
+                        <div class="icon-work text-center">
+                            <i class="fa fa-check"></i>
                         </div>
                     </div>
                     
+                    <div class="descricao">
+                        Lorem ipsum pharetra nunc molestie interdum orci, aliquam lacinia sit habitasse etiam ut eleifend, nisl sollicitudin venenatis ante tellus. vel class lectus ultrices curae tempor rutrum porta tellus conubia proin, libero tristique consectetur magna urna gravida nulla inceptos potenti, et sagittis vehicula quam conubia po
+                    </div>
+                    
                 </div>
+                
+                <div class="work text-center">
+                    
+                    <h3 class="sub-title">Estagiário</h3>
+                    <p class="info">Votoranitm Metais</p>
+                    
+                    <div class="row justify-content-center align-items-center">
+                        <span class="date">JUL 2015 - MAR 2016</span>
+                        
+                        <div class="icon-work text-center">
+                            <i class="fa fa-times"></i>
+                        </div>
+                    </div>
+                    
+                    <div class="descricao">
+                        Lorem ipsum pharetra nunc molestie interdum orci, aliquam lacinia sit habitasse etiam ut eleifend, nisl sollicitudin venenatis ante tellus. vel class lectus ultrices curae tempor rutrum porta tellus conubia proin, libero tristique consectetur magna urna gravida nulla inceptos potenti, et sagittis vehicula quam conubia po
+                    </div>
+                    
+                </div>
+        
+                
+                
                 
             </div>
             
