@@ -156,27 +156,6 @@ div.icon
     
 }
 
-div.sociais
-{
-    background-color: #c9cacc;
-    padding: 10px;
-
-}
-div.sociais a:hover
-{
-    text-decoration: none;
-    opacity: 0.8;
-}
-
-div.sociais div.icon
-{
-    width: 45px;
-    height: 45px;
-    font-size: 0.9rem;
-    background-color: #c82333;
-    top: 0;
-}
-
 div.icon-work
 {
     width: 30px;
@@ -196,6 +175,14 @@ div.icon-work
 div.descricao
 {
     margin-top: 30px;
+    
+}
+
+div.work div.descricao
+{
+    border: 1px solid #bcbcbc;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 
 div.descricao p
@@ -203,6 +190,18 @@ div.descricao p
     margin-bottom: 3px;
     font-size: 1.1rem;
     box-sizing: border-box;
+}
+
+div.descricao span.date
+{
+    padding: 1px 10px; 
+    background-color: #c82333;
+    color: #ffffff;
+    border: 1px solid #c82333;
+    border-radius: 15px;
+    font-size: 0.8em;
+    position: relative;
+    top: -23px;
 }
 
 p.skill-name,
@@ -260,23 +259,13 @@ div.progress .git
 div.experiencia
 {
     background-color: #e5e3e3;
+    padding-bottom: 40px;
 }
 
 div.work
 {
     padding-top: 30px;
 }
-
-span.date
-{
-    padding: 1px 10px; 
-    background-color: #c82333;
-    color: #ffffff;
-    border: 1px solid #c82333;
-    border-radius: 15px;
-    font-size: 0.8em;
-}
-
 
 h4
 {
@@ -286,6 +275,7 @@ h4
     font-weight: 600;
     margin-bottom: 20px;
     border: 1px solid #c82333;
+    font-size: 1em; 
     
 }
 
@@ -310,10 +300,53 @@ div.more-info h3.curso
     font-size: 0.9em;
 }
 
+div.work h3.sub-title
+{
+    border: 2px solid #c82333;
+    color: #c82333;
+    padding: 10px;
+}
+
 div.more-info p.instituicao
 {
     font-size: 0.8em;
 }
+
+footer .copyright
+{
+    padding: 5px;
+    color: #ffffff;
+}
+
+footer .copyright p
+{
+    margin-bottom: 0;
+    color: #3f3f3f;
+    font-weight: 700;
+}
+    
+
+div.sociais
+{
+    background-color: #eaebed;
+    padding: 10px;
+}
+
+div.sociais a:hover
+{
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+div.sociais div.icon
+{
+    width: 45px;
+    height: 45px;
+    background-color: #c82333;
+    top: 0;
+    display: flex;
+}
+
 
 @media (max-width: 576px) {
     

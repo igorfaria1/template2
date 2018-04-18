@@ -1,5 +1,8 @@
 <section class="conhecimentos">
     <div id="conhecimentos">
+        <div class="image">
+            
+        </div>
         <div class="container">
             
             <h2 class="title text-center">Conhecimentos</h2>

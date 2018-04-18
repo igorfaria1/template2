@@ -10,40 +10,31 @@
             
             <div class="container">
 
-                <div class=" work text-center">
+                <div class="work text-center">
                     
-                    <h3 class="sub-title">Técnico em Informática</h3>
+                    <h3 class="sub-title d-inline-flex">Técnico em Informática</h3>
                     <p class="info">Unipac</p>
                     
                     <div class="row justify-content-center align-items-center">
-                        <span class="date">MAR 2016 - Atual</span>
-                        
-                        <div class="icon-work text-center">
-                            <i class="fa fa-check"></i>
-                        </div>
+                       
                     </div>
                     
                     <div class="descricao">
-                        Lorem ipsum pharetra nunc molestie interdum orci, aliquam lacinia sit habitasse etiam ut eleifend, nisl sollicitudin venenatis ante tellus. vel class lectus ultrices curae tempor rutrum porta tellus conubia proin, libero tristique consectetur magna urna gravida nulla inceptos potenti, et sagittis vehicula quam conubia po
+                         
+                        <span class="date">MAR 2016 - Atual</span>
+                        <p>Lorem ipsum pharetra nunc molestie interdum orci, aliquam lacinia sit habitasse etiam ut eleifend, nisl sollicitudin venenatis ante tellus. vel class lectus ultrices curae tempor rutrum porta tellus conubia proin, libero tristique consectetur magna urna gravida nulla inceptos potenti, et sagittis vehicula quam conubia po</p>
                     </div>
                     
                 </div>
                 
                 <div class="work text-center">
                     
-                    <h3 class="sub-title">Estagiário</h3>
-                    <p class="info">Votoranitm Metais</p>
-                    
-                    <div class="row justify-content-center align-items-center">
-                        <span class="date">JUL 2015 - MAR 2016</span>
-                        
-                        <div class="icon-work text-center">
-                            <i class="fa fa-times"></i>
-                        </div>
-                    </div>
+                    <h3 class="sub-title d-inline-flex">Estagiário</h3>
+                    <p class="info">Votorantim Metais</p>
                     
                     <div class="descricao">
-                        Lorem ipsum pharetra nunc molestie interdum orci, aliquam lacinia sit habitasse etiam ut eleifend, nisl sollicitudin venenatis ante tellus. vel class lectus ultrices curae tempor rutrum porta tellus conubia proin, libero tristique consectetur magna urna gravida nulla inceptos potenti, et sagittis vehicula quam conubia po
+                        <span class="date">MAR 2016 - Atual</span>
+                        <p>Lorem ipsum pharetra nunc molestie interdum orci, aliquam lacinia sit habitasse etiam ut eleifend, nisl sollicitudin venenatis ante tellus. vel class lectus ultrices curae tempor rutrum porta tellus conubia proin, libero tristique consectetur magna urna gravida nulla inceptos potenti, et sagittis vehicula quam conubia po</p>
                     </div>
                     
                 </div>
